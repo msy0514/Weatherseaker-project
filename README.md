@@ -1,4 +1,4 @@
-# weatherseaker
+# Weatherseaker Project
 collaboration_github_for_weather_seaker_project
 
 # project member
